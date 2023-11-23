@@ -1,7 +1,7 @@
 import os
 import re
-from difflib import SequenceMatcher
 from time import time
+
 from git import Repo
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
