@@ -74,3 +74,7 @@ Winnowing 알고리즘은 문서가 복제되었는지 여부를 판별하는 �
 - **문서 유사도 검색**
 
 
+참고 문헌 
+
+* https://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
+
