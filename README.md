@@ -77,4 +77,5 @@ Winnowing 알고리즘은 문서가 복제되었는지 여부를 판별하는 �
 참고 문헌 
 
 * https://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
+* https://wikidocs.net/24603
 
